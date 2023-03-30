@@ -1,0 +1,7 @@
+.react-player{
+    display: block !important;
+    margin: 0 auto !important;
+    height: 720px !important;
+    width: 100% !important;
+    object-fit: contain !important;
+}
